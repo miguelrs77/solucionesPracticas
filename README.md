@@ -1,1 +1,4 @@
-Primer Ejercicio clase 3 -Promedio de calificaciones-
+Primer Ejercicio clase y otros 
+-Promedio de calificaciones-
+-mayor de edad-
+-que estacion del año es ?-

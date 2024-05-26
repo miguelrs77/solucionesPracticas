@@ -1,4 +1,6 @@
-Primer Ejercicio clase y otros 
+Ejercicio clase y otros:
+```
 -Promedio de calificaciones-
 -mayor de edad-
--que estacion del año es ?-
+-que estacion del año es ?
+```
